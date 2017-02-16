@@ -74,6 +74,7 @@ adjective <- c(
   "kryptonian",
   "laudable",
   "legendary",
+  "lekker",
   "lovely",
   "luminous",
   "magnificent",
